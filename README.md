@@ -11,10 +11,10 @@
 
 
 ### _Figma Link:_
-[Figma Your Life Figma]()
+[Figma Your Life Figma](https://www.figma.com/design/sWnoKJz2TUxKhHapdKBslm/Figma-Your-Life?t=NX6cWREkorKxv8x8-1)
 
 ### _GitHub Repository Link:_
-[Figma Your Life Repository]()
+[Figma Your Life Repository](https://github.com/davidmonterrosa/MonterrosaDProjFigmaYourLife.git)
 
 ***Change Log***
 + mm/dd/yyyy - DM - short description
