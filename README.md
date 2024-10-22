@@ -17,7 +17,7 @@
 [Figma Your Life Repository]()
 
 ***Change Log***
-+ mm/dd/yyyy - MQ/GP/DM - short description
++ mm/dd/yyyy - DM - short description
 - 10/22/2024 - DM - Created git repository.
 
 Peer Reviewed By: 
